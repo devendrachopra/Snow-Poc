@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section action="DELETE" caption="New Section" section_id="bf39764d836112107f4466cddfda1e25" sys_domain="global" table="x_cdltd_snowdemo_incident_demo" version="3" view="">
+<record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="bf39764d836112107f4466cddfda1e25" sys_domain="global" table="x_1521157_gitdemo_incident_demo" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_short_desription</element>
             <position>0</position>
@@ -7,18 +7,18 @@
             <sys_created_on>2024-10-28 06:16:19</sys_created_on>
             <sys_id>5849764d836112107f4466cddfda1ed3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_snowdemo_incident_demo" sys_domain="global" view="Default view">bf39764d836112107f4466cddfda1e25</sys_ui_section>
+            <sys_ui_formatter />
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1521157_gitdemo_incident_demo" sys_domain="global" view="Default view">bf39764d836112107f4466cddfda1e25</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-28 06:16:19</sys_updated_on>
-            <sys_user/>
-            <type/>
+            <sys_user />
+            <type />
         </sys_ui_element>
         <sys_ui_section action="DELETE">
             <caption>New Section</caption>
             <header>false</header>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <roles/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <roles />
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:16:17</sys_created_on>
@@ -26,31 +26,31 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>bf39764d836112107f4466cddfda1e25</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_cdltd_snowdemo_incident_demo</sys_name>
-            <sys_overrides/>
-            <sys_package display_value="SnowDemo" source="x_cdltd_snowdemo">99e32e81832112107f4466cddfda1e5f</sys_package>
-            <sys_policy/>
-            <sys_scope display_value="SnowDemo">99e32e81832112107f4466cddfda1e5f</sys_scope>
+            <sys_name>x_1521157_gitdemo_incident_demo</sys_name>
+            <sys_overrides />
+            <sys_package display_value="084c0c10c36512103fc8502ed401318f" source="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_package>
+            <sys_policy />
+            <sys_scope display_value="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_scope>
             <sys_update_name>sys_ui_section_bf39764d836112107f4466cddfda1e25</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-28 06:16:17</sys_updated_on>
-            <sys_user/>
+            <sys_user />
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
-            <view_name/>
+            <view_name />
         </sys_ui_section>
     </sys_ui_section>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="SnowDemo">99e32e81832112107f4466cddfda1e5f</application>
-        <file_path/>
+        <application display_value="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</application>
+        <file_path />
         <instance_id>11fbcdf8476d9250ad588549116d43bf</instance_id>
         <instance_name>nowlearning-nlinst02177481-0001</instance_name>
         <name>sys_ui_section_bf39764d836112107f4466cddfda1e25</name>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="bf39764d836112107f4466cddfda1e25" sys_domain="global" table="x_cdltd_snowdemo_incident_demo" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_short_desription</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 06:16:19</sys_created_on><sys_id>5849764d836112107f4466cddfda1ed3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_snowdemo_incident_demo" sys_domain="global" view="Default view">bf39764d836112107f4466cddfda1e25</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 06:16:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_cdltd_snowdemo_incident_demo</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 06:16:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bf39764d836112107f4466cddfda1e25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_snowdemo_incident_demo</sys_name><sys_overrides/><sys_package display_value="SnowDemo" source="x_cdltd_snowdemo">99e32e81832112107f4466cddfda1e5f</sys_package><sys_policy/><sys_scope display_value="SnowDemo">99e32e81832112107f4466cddfda1e5f</sys_scope><sys_update_name>sys_ui_section_bf39764d836112107f4466cddfda1e25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 06:16:17</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_ui_section caption="New Section" section_id="bf39764d836112107f4466cddfda1e25" sys_domain="global" table="x_1521157_gitdemo_incident_demo" version="3" view=""&gt;&lt;sys_ui_element action="INSERT_OR_UPDATE"&gt;&lt;element&gt;u_short_desription&lt;/element&gt;&lt;position&gt;0&lt;/position&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-28 06:16:19&lt;/sys_created_on&gt;&lt;sys_id&gt;5849764d836112107f4466cddfda1ed3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_ui_formatter/&gt;&lt;sys_ui_section caption="New Section" display_value="New Section" name="x_1521157_gitdemo_incident_demo" sys_domain="global" view="Default view"&gt;bf39764d836112107f4466cddfda1e25&lt;/sys_ui_section&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-28 06:16:19&lt;/sys_updated_on&gt;&lt;sys_user/&gt;&lt;type/&gt;&lt;/sys_ui_element&gt;&lt;sys_ui_section action="INSERT_OR_UPDATE"&gt;&lt;caption&gt;New Section&lt;/caption&gt;&lt;header&gt;false&lt;/header&gt;&lt;name&gt;x_1521157_gitdemo_incident_demo&lt;/name&gt;&lt;roles/&gt;&lt;sys_class_name&gt;sys_ui_section&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-28 06:16:17&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;bf39764d836112107f4466cddfda1e25&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_1521157_gitdemo_incident_demo&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="SnowDemo" source="x_1521157_gitdemo"&gt;99e32e81832112107f4466cddfda1e5f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="SnowDemo"&gt;99e32e81832112107f4466cddfda1e5f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_section_bf39764d836112107f4466cddfda1e25&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-28 06:16:17&lt;/sys_updated_on&gt;&lt;sys_user/&gt;&lt;title&gt;false&lt;/title&gt;&lt;view display_value="Default view" name="NULL"&gt;Default view&lt;/view&gt;&lt;view_name/&gt;&lt;/sys_ui_section&gt;&lt;/sys_ui_section&gt;&lt;/record_update&gt;</payload>
         <payload_hash>373543737</payload_hash>
         <record_name>Incident Demo</record_name>
-        <reverted_from/>
+        <reverted_from />
         <source>a4c72e85832112107f4466cddfda1eb6</source>
         <source_table>sys_update_set</source_table>
         <state>previous</state>
@@ -66,7 +66,7 @@
         <update_guid_history>1c49764d5c611210c06d93c396e456d4:373543737</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete/>
+        <sys_audit_delete />
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-28 06:18:32</sys_created_on>
@@ -75,10 +75,10 @@
         <sys_metadata>bf39764d836112107f4466cddfda1e25</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>New Section</sys_name>
-        <sys_package display_value="SnowDemo" source="x_cdltd_snowdemo">99e32e81832112107f4466cddfda1e5f</sys_package>
+        <sys_package display_value="084c0c10c36512103fc8502ed401318f" source="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_package>
         <sys_parent display_value="Incident Demo">a2d07681836112107f4466cddfda1edb</sys_parent>
-        <sys_policy/>
-        <sys_scope display_value="SnowDemo">99e32e81832112107f4466cddfda1e5f</sys_scope>
+        <sys_policy />
+        <sys_scope display_value="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_scope>
         <sys_scope_delete display_value="">0c9d83b9a6584b8080a3f2407d51c400</sys_scope_delete>
         <sys_update_name>sys_ui_section_bf39764d836112107f4466cddfda1e25</sys_update_name>
         <sys_update_version display_value="sys_ui_section_bf39764d836112107f4466cddfda1e25">9449764d836112107f4466cddfda1ed5</sys_update_version>

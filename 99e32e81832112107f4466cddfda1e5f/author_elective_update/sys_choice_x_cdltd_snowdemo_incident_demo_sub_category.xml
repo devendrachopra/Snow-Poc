@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="sub_category" table="x_cdltd_snowdemo_incident_demo" version="3">
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sub_category" table="x_1521157_gitdemo_incident_demo" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>sub_category</element>
-            <name>x_cdltd_snowdemo_incident_demo</name>
+            <name>x_1521157_gitdemo_incident_demo</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:51:59</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sub_category</sys_name>
-            <sys_package display_value="SnowDemo" source="x_cdltd_snowdemo">99e32e81832112107f4466cddfda1e5f</sys_package>
-            <sys_policy/>
-            <sys_scope display_value="SnowDemo">99e32e81832112107f4466cddfda1e5f</sys_scope>
-            <sys_update_name>sys_choice_x_cdltd_snowdemo_incident_demo_sub_category</sys_update_name>
+            <sys_package display_value="084c0c10c36512103fc8502ed401318f" source="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_package>
+            <sys_policy />
+            <sys_scope display_value="084c0c10c36512103fc8502ed401318f">084c0c10c36512103fc8502ed401318f</sys_scope>
+            <sys_update_name>sys_choice_x_1521157_gitdemo_incident_demo_sub_category</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-28 06:51:59</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>CPU</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:54:02</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -37,13 +37,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Database</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>DB2</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:57:34</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -56,13 +56,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Network</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>DHCP</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:56:07</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -75,13 +75,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Disk</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:54:19</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -94,13 +94,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Network</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>DNS</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:56:23</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -113,13 +113,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Software</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Email</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:51:59</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -132,13 +132,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Network</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>IP Address</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:57:07</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -151,13 +151,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Keyboard</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:54:44</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -170,13 +170,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Memory</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:55:03</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -189,13 +189,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Monitor</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:55:22</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -208,13 +208,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Hardware</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Mouse</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:55:41</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -227,13 +227,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Database</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>MySql Server</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:57:59</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -246,13 +246,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Software</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Operating System</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:53:35</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -265,13 +265,13 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>Database</dependent_value>
             <element>sub_category</element>
-            <hint/>
+            <hint />
             <inactive>false</inactive>
             <label>Oracal</label>
             <language>en</language>
-            <name>x_cdltd_snowdemo_incident_demo</name>
-            <sequence/>
-            <synonyms/>
+            <name>x_1521157_gitdemo_incident_demo</name>
+            <sequence />
+            <synonyms />
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-28 06:58:15</sys_created_on>
             <sys_domain>global</sys_domain>
